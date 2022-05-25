@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Filme</string>
+    <string name="nome_filme">Encanto</string>
+    <string name="descricao_imagem_filme">Foto do cartaz do filme Encanto, contendo a familia madrigal</string>
+</resources>
